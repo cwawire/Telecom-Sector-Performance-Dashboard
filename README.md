@@ -1,313 +1,242 @@
-# 📡 Telecom Sector Performance Dashboard (Power BI)
+# 📡 Kenya Telecom Sector Performance Dashboard
 
-![Power BI](https://img.shields.io/badge/Tool-Power%20BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
-![DAX](https://img.shields.io/badge/Language-DAX-0176D3?style=for-the-badge)
-![Analytics](https://img.shields.io/badge/Domain-Telecom%20Analytics-0EA5E9?style=for-the-badge)
-![Status](https://img.shields.io/badge/Project-Completed-22C55E?style=for-the-badge)
+A multi-page Power BI dashboard analyzing Kenya’s telecommunications and ICT sector performance using official quarterly industry statistics published by the Communications Authority of Kenya (CA).
 
----
-
-##  Project Summary
-
-This project is an executive-level Power BI dashboard designed to analyze and monitor telecom sector performance across:
-
-* 📞 Traffic Analytics
-* 📱 Mobile Market Performance
-* 🌐 Broadband & Connectivity
-* 🔐 Cybersecurity Threat Intelligence
-* 📊 KPI Growth & Trend Analysis
-
-The solution combines:
-
-* advanced DAX modeling
-* executive dashboard storytelling
-* KPI normalization/indexing
-* telecom operational analytics
-* performance optimization techniques
-
-into a recruiter-ready BI portfolio project.
+The project transforms raw telecom sector reports into an executive-level business intelligence solution covering:
+- Mobile market growth
+- Broadband adoption
+- Telecom traffic analytics
+- Cybersecurity trends
+- Mobile money performance
+- Infrastructure utilization
 
 ---
 
-## 🖼️ Dashboard Pages
+# 📌 Project Overview
 
-## Overview
+Kenya is one of Africa’s most digitally advanced economies, with telecommunications infrastructure playing a central role in:
+- Financial inclusion
+- Internet accessibility
+- Mobile banking
+- Digital commerce
+- Business communication
+- National cybersecurity
 
-This project is an end-to-end Power BI dashboard designed to analyze and monitor key performance indicators (KPIs) across the telecommunications sector. The solution consolidates telecom operational, broadband, mobile market, traffic analytics, and cybersecurity performance metrics into a unified executive reporting experience.
+This dashboard was built to analyze how Kenya’s ICT ecosystem evolved across multiple reporting periods using real-world sector statistics from the Communications Authority of Kenya.
 
-The dashboard was built with a strong focus on:
-
-* Executive storytelling
-* KPI-driven analysis
-* Clean visual hierarchy
-* Telecom-specific analytical framing
-* Performance optimization
-* Professional dashboard design standards
-
-The final solution contains multiple analytical report pages covering:
-
-1. Executive Overview
-2. Mobile Market Analysis
-3. Traffic Analytics
-4. Broadband & Connectivity Performance
-5. Cybersecurity Threat Intelligence
+The project focuses on converting dense regulatory reports into:
+- Executive-friendly insights
+- Interactive visual analytics
+- Growth monitoring dashboards
+- KPI-driven business intelligence
 
 ---
 
-# Project Objectives
+# 🎯 Project Objectives
 
-The primary objective of this dashboard was to:
+The dashboard was designed to:
 
-* Consolidate telecom sector KPIs into a single analytical platform
-* Track quarterly telecom performance trends
-* Compare KPI growth across business segments
-* Monitor infrastructure and connectivity metrics
-* Analyze subscriber and smartphone adoption trends
-* Evaluate cybersecurity threat activity and advisory metrics
-* Build a recruiter-ready BI portfolio project demonstrating:
-
-  * Power BI dashboard design
-  * DAX modeling
-  * KPI storytelling
-  * Executive visualization practices
-  * Analytical problem-solving
+- Monitor telecom sector performance across reporting periods
+- Track broadband and mobile adoption trends
+- Analyze voice, SMS, and roaming traffic
+- Visualize cybersecurity threat activity
+- Compare quarterly KPI growth
+- Build executive-level telecom intelligence visuals
+- Demonstrate advanced Power BI and DAX capabilities
 
 ---
 
-# Dashboard Architecture
+# 🗂 Dashboard Structure
 
-## Executive Overview
+## 1. Executive Overview
+Provides a high-level summary of:
+- Total telecom KPI performance
+- QoQ growth comparisons
+- Indexed KPI growth trends
+- Broadband and mobile money growth indicators
+- Telecom sector insights
 
-The Executive Overview page provides a high-level telecom sector summary.
-
-### Core KPIs
-
-* Total KPI Value
-* Voice Traffic
-* SMS Traffic
-* Subscribers
-* Broadband Growth
-* QoQ Growth
-* Mobile Money Growth
-
-### Key Visuals
-
-* Quarterly KPI Growth Comparison
-* Indexed Telecom KPI Growth Trends
-* Executive Insight Narrative
-
-### Analytical Purpose
-
-This page answers:
-
-* Which telecom segments are growing the fastest?
-* How are key KPIs evolving over time?
-* Which categories dominate sector performance?
+### Key Insights
+- Cybersecurity indicators recorded the strongest growth momentum
+- Broadband metrics rebounded steadily after Q4 slowdown
+- Voice traffic remained the dominant telecom KPI
 
 ---
 
-## Mobile Market Analysis
+## 2. Mobile Market Analysis
+Analyzes:
+- Smartphone adoption
+- Device market composition
+- Smartphone penetration rates
+- Quarterly mobile market comparisons
+- Device subscription growth trends
 
-This page focuses on smartphone adoption and device market performance.
-
-### Core KPIs
-
-* Smartphone Value
-* Smartphone Penetration %
-* Smartphone Growth %
-
-### Key Visuals
-
-* Device Market Composition (Donut Chart)
-* Quarterly Device Market Comparison
-* Total Device Subscription Trend
-* Smartphone Adoption Over Time
-
-### Analytical Purpose
-
-This page evaluates:
-
-* Smartphone penetration growth
-* Device market composition
-* Subscriber adoption trends
-* Smartphone vs feature phone market performance
+### Key Findings
+- Smartphone subscriptions continued rising significantly
+- Feature phones still maintain substantial market share
+- Mobile penetration continues expanding across Kenya
 
 ---
 
-## Traffic Analytics
+## 3. Telecom Traffic Analytics
+Tracks:
+- Voice traffic trends
+- SMS traffic performance
+- Roaming activity
+- International traffic patterns
+- QoQ telecom traffic growth
 
-This page focuses on telecom traffic distribution and traffic growth analysis.
-
-### Core KPIs
-
-* Voice Traffic
-* SMS Traffic
-* Roaming
-* International Traffic
-
-### Key Visuals
-
-* Voice Traffic Growth Trend
-* Traffic Share by Type
-* QoQ Growth Comparison by KPI Category
-* Indexed Traffic Growth Trends
-
-### Analytical Purpose
-
-This page helps analyze:
-
-* Telecom traffic composition
-* Growth across traffic categories
-* Roaming performance
-* International traffic patterns
-* On-net vs off-net trends
+### Key Findings
+- Voice traffic remains dominant
+- Roaming traffic showed strong growth
+- International traffic experienced mixed performance
 
 ---
 
-## Broadband & Connectivity Performance
+## 4. Broadband & Connectivity Performance
+Monitors:
+- Broadband adoption
+- Utilized vs available bandwidth
+- Undersea bandwidth trends
+- Satellite bandwidth utilization
+- Connectivity infrastructure growth
 
-This page evaluates broadband infrastructure and utilization metrics.
-
-### Core KPIs
-
-* Broadband Subscribers
-* Utilized Bandwidth
-* Available Bandwidth
-* QoQ Growth
-
-### Key Visuals
-
-* International Infrastructure Capacity
-* Broadband Adoption Trend
-* Bandwidth Utilization & Satellite Capacity
-
-### Analytical Purpose
-
-This section analyzes:
-
-* Broadband adoption growth
-* Network capacity utilization
-* Undersea bandwidth infrastructure
-* Satellite dependency trends
-* International bandwidth availability
+### Key Findings
+- Broadband adoption continued increasing steadily
+- Infrastructure utilization improved significantly
+- Kenya’s international bandwidth capacity continues expanding
 
 ---
 
-## Cybersecurity Threat Intelligence
+## 5. Cybersecurity Threat Intelligence
+Analyzes:
+- Cyber threat detections
+- Threat advisories
+- Threat growth comparisons
+- Cybersecurity trend patterns
 
-This page focuses on cyber threat detection and advisory activity.
-
-### Core KPIs
-
-* Cyberthreat Cost
-
-### Key Visuals
-
-* Cyber Threat vs Advisory Distribution
-* Cyber Threat Activity Comparison
-* Cyber Threat Trend Over Time
-* Cybersecurity KPI Table
-
-### Analytical Purpose
-
-This page evaluates:
-
-* Threat detection trends
-* Threat advisory activity
-* Quarterly cybersecurity growth
-* Threat intensity comparisons
+### Key Findings
+- Cyber threat detections increased sharply
+- Advisory activity also showed strong growth
+- Growing digital adoption increases cybersecurity relevance
 
 ---
 
-# Data Preparation Process
+# 📊 Data Source
 
-## Data Cleaning
+The dashboard uses official quarterly ICT sector statistics reports from the Communications Authority of Kenya.
 
-Several telecom datasets contained:
+## Reports Used
+- Q1 FY2024/25 Sector Statistics Report
+- Q2 FY2024/25 Sector Statistics Report
+- Q3 FY2024/25 Sector Statistics Report
+- Q4 FY2024/25 Sector Statistics Report
+- Q1 FY2025/26 Sector Statistics Report
+- Q2 FY2025/26 Sector Statistics Report
 
-* Missing values
-* Sparse quarterly reporting
-* Inconsistent naming conventions
-* Mixed KPI categories
-* Operational duplicates
-
-The following cleaning processes were performed:
-
-### Standardization
-
-* Standardized KPI category names
-* Renamed inconsistent metrics
-* Created cleaned metric fields
-
-Example:
-
-```DAX
-Metric_Clean =
-TRIM(Fact_TelecomKPIs[Metric])
-```
+The reports follow International Telecommunications Union (ITU) standards for ICT and telecommunications statistics reporting.
 
 ---
 
-## Date Table Creation
+# 🇰🇪 Why This Project Matters for Kenya
 
-A custom Date Table was created to support:
+## 1. Mobile Money Leadership
+Kenya is globally recognized for mobile financial services adoption.
 
-* Quarterly analysis
-* Year-quarter sorting
-* Time intelligence calculations
+The dashboard tracks mobile money subscription growth from:
+- **40.6M subscribers**
+to
+- **51.3M subscribers**
 
-### Key Date Fields
-
-* Date
-* Year
-* Quarter
-* Year Quarter
-* YearQuarterSort
-
-Example:
-
-```DAX
-Year Quarter =
-FORMAT(DateTable[Date], "YYYY") & " Q" & FORMAT(DateTable[Date], "Q")
-```
+This reflects the importance of:
+- M-Pesa
+- Airtel Money
+- Digital payments
+- Financial inclusion
 
 ---
 
-## Sorting Logic
+## 2. Smartphone Growth & Digital Adoption
+The project visualizes Kenya’s rapid transition toward smartphone usage.
 
-To ensure proper quarter sequencing:
+Smartphone subscriptions increased from:
+- **37.4M**
+to
+- **48.7M** across the reporting period.
 
-```DAX
-YearQuarterSort =
-YEAR(DateTable[Date]) * 10 + QUARTER(DateTable[Date])
-```
-
-This solved issues where Power BI sorted quarters alphabetically instead of chronologically.
+This growth influences:
+- Internet accessibility
+- E-commerce
+- Social media adoption
+- Online learning
+- Digital entrepreneurship
 
 ---
 
-# DAX Measures Created
+## 3. Broadband Infrastructure Expansion
+The dashboard highlights Kenya’s investment in:
+- Fibre infrastructure
+- Broadband access
+- Undersea cable systems
+- International bandwidth
+
+The reports reference infrastructure systems including:
+- SEACOM
+- TEAMS
+- EASSy
+- PEACE Cable
+
+---
+
+## 4. Telecom Usage Trends
+Voice and SMS traffic analysis reveals evolving communication behavior across Kenya.
+
+For example:
+- On-net voice traffic increased from **22.2bn minutes** to **26.2bn minutes** across the reporting period.
+
+The dashboard helps visualize:
+- Consumer communication trends
+- Telecom demand patterns
+- Traffic growth behavior
+
+---
+
+## 5. Cybersecurity Relevance
+As Kenya’s digital economy expands, cybersecurity monitoring becomes increasingly important.
+
+The dashboard tracks:
+- Threat detections
+- Advisory trends
+- Threat growth indicators
+
+This reflects growing focus on:
+- Digital infrastructure protection
+- Fraud prevention
+- Enterprise cybersecurity readiness
+
+---
+
+# 🛠 Tools & Technologies Used
+
+| Tool | Purpose |
+|---|---|
+| Power BI | Dashboard development & visualization |
+| Power Query | Data cleaning & transformation |
+| DAX | KPI calculations & advanced measures |
+| Excel / CSV | Intermediate data preparation |
+| CA Sector Reports | Primary data source |
+
+---
+
+# 📈 Key DAX Measures Created
 
 ## Total KPI Value
-
 ```DAX
 Total KPI Value =
 SUM(Fact_TelecomKPIs[Current_Value])
 ```
 
----
-
-## Previous Quarter Value
-
-```DAX
-Previous Quarter Value =
-SUM(Fact_TelecomKPIs[Previous_Quarter])
-```
-
----
-
 ## QoQ Growth %
-
 ```DAX
 QoQ Growth % =
 DIVIDE(
@@ -316,36 +245,21 @@ DIVIDE(
 )
 ```
 
----
-
-## Indexed KPI Value
-
-The indexed KPI measure normalized telecom KPI performance over time.
-
-### Purpose
-
-The indexed metric allows:
-
-* Relative trend comparison
-* Growth normalization
-* Momentum analysis across categories
-
-### Final Indexed Measure
-
+## Indexed KPI Trend
 ```DAX
 Indexed KPI Value =
-VAR BaseQuarter =
-    CALCULATE(
-        MIN(DateTable[YearQuarterSort]),
-        ALLSELECTED(DateTable)
-    )
-
 VAR BaseValue =
     CALCULATE(
         [Total KPI Value],
         FILTER(
-            ALL(DateTable),
-            DateTable[YearQuarterSort] = BaseQuarter
+            ALLSELECTED('DateTable'),
+            'DateTable'[YearQuarterSort]
+                =
+            MIN('DateTable'[YearQuarterSort])
+        ),
+        ALLEXCEPT(
+            Fact_TelecomKPIs,
+            Fact_TelecomKPIs[KPI_Category]
         )
     )
 
@@ -355,478 +269,156 @@ DIVIDE([Total KPI Value], BaseValue) * 100
 
 ---
 
-# Dashboard Design Process
+# 🚧 Challenges Encountered & Solutions
 
-## Initial Design Challenges
-
-The initial dashboard versions suffered from:
-
-* Overcrowded visuals
-* Poor visual hierarchy
-* Excessive tables
-* Weak KPI storytelling
-* Inconsistent chart selection
-* Poor trend readability
-
-The dashboard was redesigned iteratively using executive BI design principles.
-
----
-
-# Visual Design Decisions
-
-## 1. Replacing Tables with Comparative Charts
-
+## 1. Blank Indexed KPI Charts
 ### Problem
+Indexed KPI trend visuals initially returned blank charts.
 
-Tables consumed large dashboard space and reduced readability.
+### Cause
+Incorrect date context handling and missing quarter sorting logic.
 
 ### Solution
-
-Replaced operational tables with:
-
-* QoQ Growth Comparison charts
-* Horizontal KPI comparison visuals
-
-### Result
-
-Improved:
-
-* Executive readability
-* KPI storytelling
-* Visual hierarchy
-* Dashboard professionalism
+- Built a dedicated Date Table
+- Added `YearQuarterSort`
+- Refactored DAX context using:
+  - `ALLSELECTED()`
+  - `ALLEXCEPT()`
+  - Base-period indexing logic
 
 ---
 
-## 2. Horizontal Bar Charts for QoQ Comparison
-
+## 2. Sparse Broadband Infrastructure Data
 ### Problem
-
-Vertical QoQ charts looked cramped and difficult to scan.
+Undersea and satellite bandwidth data had limited reporting periods.
 
 ### Solution
-
-Used horizontal clustered bar charts.
-
-### Benefits
-
-* Better ranking visibility
-* Faster executive scanning
-* Improved comparison readability
+Replaced line charts with column charts for sparse datasets to improve readability and avoid misleading visual trends.
 
 ---
 
-## 3. Sparse Data Visualization Challenges
-
+## 3. Power BI Performance Issues
 ### Problem
-
-Metrics like:
-
-* Undersea Bandwidth
-* Satellite Bandwidth
-
-had sparse quarterly values.
-
-Using line charts created misleading continuity.
+The new Power BI card visual significantly slowed dashboard performance.
 
 ### Solution
-
-Switched sparse metrics from:
-
-* Line charts
-
-To:
-
-* Clustered column charts
-
-### Result
-
-The dashboard more accurately represented:
-
-* discrete reporting periods
-* infrastructure deployment changes
-* irregular telecom capacity reporting
+- Replaced heavy visuals with standard KPI cards
+- Reduced unnecessary interactions
+- Simplified visuals
+- Optimized DAX calculations
 
 ---
 
-## 4. Indexed Trend Visuals
-
+## 4. Visual Consistency Across Pages
 ### Problem
-
-Direct KPI comparisons were difficult because KPI scales varied significantly.
-
-Example:
-
-* Voice Traffic values were much larger than Mobile Money values.
+Maintaining consistent styling across multiple telecom report pages.
 
 ### Solution
-
-Created indexed KPI measures normalized to a base quarter.
-
-### Result
-
-This enabled:
-
-* relative performance analysis
-* trend normalization
-* cross-category momentum comparison
-
----
-
-## 5. Small Multiples Optimization
-
-### Problem
-
-Too many small multiples caused:
-
-* cramped layouts
-* weak readability
-* visual fragmentation
-
-### Solution
-
-Reduced small multiple complexity and grouped related KPIs strategically.
-
-### Result
-
-Cleaner trend interpretation and stronger layout balance.
-
----
-
-# Dashboard Performance Challenges
-
-## 1. Report Slowdowns
-
-### Problem
-
-Performance degraded due to:
-
-* too many card visuals
-* layered KPI cards
-* complex DAX calculations
-* excessive small multiples
-
-### Solution
-
-Optimizations included:
-
-* reducing visual count
-* removing redundant cards
-* simplifying KPI structures
-* limiting expensive DAX calculations
-* disabling unnecessary interactions
-
-### Result
-
-Improved:
-
-* dashboard responsiveness
-* filtering speed
-* visual rendering performance
-
----
-
-## 2. New Card Visual Issues
-
-### Problem
-
-The new Power BI Card visual caused:
-
-* rendering delays
-* stuck visual behavior
-* limited formatting flexibility
-
-### Solution
-
-Reverted to simpler KPI card structures and removed unnecessary layered visuals.
-
-### Key Lesson
-
-Executive dashboards should prioritize:
-
-* speed
-* clarity
-* responsiveness
-
-over excessive visual complexity.
-
----
-
-# Null and Sparse Data Handling
-
-## Challenge
-
-Several visuals displayed:
-
-* false zero values
-* misleading flat trends
-* disconnected growth patterns
-
-### Example
-
-Missing broadband values appeared as:
-
-```text
-0 bandwidth
-```
-
-instead of missing data.
-
----
-
-## Solution
-
 Implemented:
-
-* null filtering
-* blank handling
-* selective quarter filtering
-
-Example logic:
-
-```DAX
-IF(
-    ISBLANK([Total KPI Value]),
-    BLANK(),
-    [Total KPI Value]
-)
-```
+- Shared color palette
+- Consistent KPI card structure
+- Uniform typography
+- Reusable visual layouts
 
 ---
 
-# Color Palette & Design System
+# 🎨 Dashboard Design Features
 
-The dashboard uses a consistent telecom-inspired executive color palette.
+## Theme
+- Dark executive dashboard theme
+- Telecom-inspired blue/cyan palette
+- Consistent typography & spacing
 
-## Core Colors
+## Interactive Features
+- Financial year slicers
+- Quarter filters
+- KPI category filtering
+- Cross-visual interactions
 
-| Purpose           | Color   |
-| ----------------- | ------- |
-| Page Background   | #556E7F |
-| Visual Containers | #243447 |
-| KPI Cards         | #E5E7EB |
-| Primary Accent    | #22D3EE |
-| Secondary Accent  | #60A5FA |
-| SMS Metrics       | #FACC15 |
-| Positive Growth   | #22C55E |
-| Negative Growth   | #EF4444 |
-| Cybersecurity     | #8B5CF6 |
-| Mobile Money      | #14B8A6 |
-
----
-
-# Executive Design Principles Applied
-
-The dashboard design intentionally followed executive BI design standards:
-
-## 1. Visual Hierarchy
-
-Each page follows:
-
-```text
-Title
-→ Filters
-→ KPI Cards
-→ Executive Insight
-→ Main Analytical Visuals
-```
+## Visualization Types
+- KPI cards
+- Line charts
+- Area charts
+- Donut charts
+- Clustered column charts
+- QoQ comparison bars
+- Indexed trend visuals
 
 ---
 
-## 2. Minimal Visual Clutter
+# 📚 Skills Demonstrated
 
-Avoided:
-
-* excessive tables
-* unnecessary gauges
-* overloaded KPI cards
-* decorative visuals
-
----
-
-## 3. Strategic Chart Selection
-
-Different visual types were matched to data behavior:
-
-| Data Type                  | Visual Used           |
-| -------------------------- | --------------------- |
-| Sparse Infrastructure Data | Column Charts         |
-| Continuous Adoption Trends | Line/Area Charts      |
-| KPI Comparisons            | Horizontal Bar Charts |
-| Market Composition         | Donut Charts          |
-| Relative Momentum          | Indexed Trend Charts  |
+This project demonstrates practical experience in:
+- Business Intelligence
+- Data Visualization
+- Power BI Development
+- DAX Calculations
+- Data Modeling
+- KPI Reporting
+- Dashboard Storytelling
+- Telecom Sector Analytics
+- Data Transformation
+- Executive Reporting
 
 ---
 
-# Key Lessons Learned
+# 💼 Business Value
 
-## 1. Simplicity Improves Executive Readability
-
-Reducing clutter significantly improved:
-
-* dashboard clarity
-* storytelling quality
-* analytical focus
-
----
-
-## 2. Chart Selection Matters
-
-Using incorrect chart types can create misleading interpretations.
-
-Example:
-
-* sparse telecom infrastructure metrics should not use continuous line charts.
+The dashboard can support:
+- Telecom strategy analysis
+- ICT performance monitoring
+- Digital economy reporting
+- Infrastructure planning
+- Market trend analysis
+- Executive decision-making
 
 ---
 
-## 3. Performance Is Part of Dashboard Quality
-
-Fast dashboards provide a better user experience than overloaded dashboards.
-
-Optimization became a critical part of the final solution.
-
----
-
-## 4. Indexed KPIs Improve Comparative Analysis
-
-Indexing telecom KPIs allowed:
-
-* fair trend comparison
-* normalized growth evaluation
-* better executive insight generation
-
----
-
-# Tools & Technologies Used
-
-## Power BI
-
-Primary dashboarding and visualization platform.
-
-## DAX
-
-Used for:
-
-* KPI calculations
-* growth metrics
-* indexed trend logic
-* dynamic formatting
-
-## Power Query
-
-Used for:
-
-* data cleaning
-* transformation
-* preprocessing
-
----
-
-# Potential Future Improvements
-
-Future enhancements could include:
-
-* Forecasting models
-* Real-time telecom streaming data
-* Geographic telecom coverage maps
-* Drill-through analytics pages
-* AI-generated telecom insights
-* Predictive anomaly detection
-* Automated cybersecurity alerts
-
----
-
-# Repository Structure
-
-```text
-telecom-sector-dashboard/
-│
-├── datasets/
-├── screenshots/
-├── pbix/
-├── dax-measures/
-├── assets/
-├── README.md
-└── telecom_dashboard.pbix
-```
-
----
-
-# Screenshots
+# 📸 Dashboard Preview
 
 ## Executive Overview
-
-* KPI growth comparison
-* Indexed KPI trends
-* Executive telecom insights
+- Sector-wide KPI trends
+- QoQ telecom growth comparisons
+- Indexed KPI performance tracking
 
 ## Mobile Market Analysis
-
-* Smartphone penetration analysis
-* Device market composition
-* Adoption trends
+- Smartphone adoption trends
+- Device composition insights
 
 ## Traffic Analytics
-
-* Traffic growth analysis
-* Traffic composition
-* Roaming and international traffic insights
+- Voice & SMS traffic analysis
+- Roaming performance tracking
 
 ## Broadband & Connectivity
-
-* Infrastructure capacity
-* Broadband adoption
-* Utilization monitoring
+- Broadband adoption monitoring
+- Infrastructure utilization tracking
 
 ## Cybersecurity Intelligence
-
-* Threat detection analysis
-* Cyber advisory tracking
-* Threat trend monitoring
+- Threat activity monitoring
+- Advisory growth tracking
 
 ---
 
-# Business Impact
+# 🚀 Future Improvements
 
-This dashboard demonstrates how telecom operators and regulators can:
-
-* monitor sector performance
-* evaluate broadband growth
-* track cybersecurity activity
-* analyze telecom traffic behavior
-* monitor infrastructure utilization
-* compare KPI momentum across business segments
-
----
-
-# Recruiter Notes
-
-This project demonstrates practical skills in:
-
-* Power BI dashboard development
-* Executive dashboard design
-* DAX modeling
-* KPI normalization
-* Data storytelling
-* Telecom analytics
-* Data visualization strategy
-* Performance optimization
-* Analytical problem-solving
-
-The dashboard was intentionally designed to mirror:
-
-* enterprise BI reporting standards
-* executive telecom reporting structures
-* operational KPI monitoring systems
+Potential future enhancements include:
+- Real-time telecom API integration
+- Geographic telecom coverage mapping
+- Forecasting & predictive analytics
+- Network operator benchmarking
+- Drill-through analysis pages
+- Advanced cybersecurity anomaly detection
 
 ---
 
-# Author
+# 👤 Author
 
-Clyde Wawire
+**Clyde Wawire**  
+Data Analytics | Business Intelligence | Financial & Strategy Analysis
 
-Data Analyst | Business Intelligence | Telecom Analytics | Power BI
-
-LinkedIn: https://www.linkedin.com/in/clyde-wawire/
-GitHub: https://github.com/cwawire
+This project was developed as part of a portfolio focused on:
+- Business intelligence
+- Data storytelling
+- Sector analytics
+- Executive dashboard reporting
+- Real-world analytics projects
